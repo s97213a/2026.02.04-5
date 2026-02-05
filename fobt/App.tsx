@@ -105,7 +105,7 @@ const App: React.FC = () => {
               臺南市及鄰近縣市
             </p>
             <p className="text-xs text-amber-600 dark:text-amber-500 mt-2 font-medium">
-              更新日期：115年2月4日
+              更新日期：115年2月5日
             </p>
           </div>
           
